@@ -12,9 +12,7 @@ val squareGTS = developer {
     }
 }
 ```
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  [![Spotify](https://novatorem-black-five.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-</details>
+  [![Spotify](https://novatorem-black-five.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
+
