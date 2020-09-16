@@ -15,6 +15,8 @@ val squareGTS = developer {
 }
 ```
 
+![](https://visitor-badge.glitch.me/badge?page_id=squareGTS.squareGTS)
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
