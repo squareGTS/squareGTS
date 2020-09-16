@@ -15,6 +15,6 @@ val squareGTS = developer {
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="squareGTS's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=squareGTS&show_icons=true&hide_border=true" />
+  [![Spotify](https://novatorem-black-five.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 </details>
