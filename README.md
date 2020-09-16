@@ -14,5 +14,12 @@ val squareGTS = developer {
 ```
 
 
-  [![Spotify](https://novatorem-black-five.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br>  [![Spotify](https://novatorem-black-five.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
+
+  </td>
+  <td width="50%">
