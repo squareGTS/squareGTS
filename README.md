@@ -19,7 +19,7 @@ val squareGTS = developer {
   <tr>
   <td width="50%">
       
-&nbsp; <br>  [![Spotify](https://novatorem.squaregts.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
+&nbsp; <br>  [![Spotify](https://squareGTS.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
   </td>
   <td width="50%">
