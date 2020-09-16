@@ -1,5 +1,5 @@
 
-## <img width="45" alt="about" src=https://raw.github.com/squareGTS/squareGTS/master/about.png> More about me
+## More about me
 ```swift
 val squareGTS = developer {
     about {
