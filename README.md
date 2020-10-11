@@ -8,7 +8,8 @@ val squareGTS = developer {
         name = "Maxim Bekmetov"
         role = Junior_IOS_Developer
     }
-    study("Swift", "SOLID", "MVC", "JSON API", "CocoaPods", "SwiftUI", "HTML", "CSS", "JavaScript")
+    study("Swift", "SOLID", "MVC", "JSON API", "CocoaPods",
+    "SwiftUI", "HTML", "CSS", "JavaScript")
     links {
         website = "https://squaregts.github.io/cv/"
     }
