@@ -9,9 +9,10 @@ val squareGTS = developer {
         role = Junior_IOS_Developer and Frontend_Developer
     }
     studyLanguages("Swift", "SOLID", "MVC", "SwiftUI", "HTML",
-    "CSS", "JavaScript + jQuery + EJS", "NodeJS + Express")
+    "CSS", "JavaScript", "NodeJS")
+    libraries("jQuery", "EJS", "Express", "Mongoose", "React")
     studyAPI("CocoaPods", "JSON API", "NPM")
-    dataBases("MongoDB + Mongoose")
+    dataBases("MongoDB")
     links {
         website = "https://squaregts.github.io/cv/"
         linkedIn = "https://www.linkedin.com/in/maxim-bekmetov-b5085b158/"
