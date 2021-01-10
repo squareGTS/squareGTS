@@ -8,11 +8,12 @@ val squareGTS = developer {
         name = "Maxim Bekmetov"
         role = Junior_IOS_Developer and Frontend_Developer
     }
-    studyLanguages("Swift", "SOLID", "MVC", "SwiftUI", "HTML",
+    studyLanguages("Swift", "SOLID", "SwiftUI", "HTML",
     "CSS", "JavaScript", "NodeJS")
+    designPaterns("MVC")
     libraries("jQuery", "EJS", "Express", "Mongoose", "React")
-    studyAPI("CocoaPods", "JSON API", "NPM")
-    dataBases("MongoDB")
+    studyAPI("CocoaPods", "JSON API", "NPM", "Swift Package")
+    dataBases("MongoDB", Realm, Core Data)
     links {
         website = "https://squaregts.github.io/cv/"
         linkedIn = "https://www.linkedin.com/in/maxim-bekmetov-b5085b158/"
