@@ -6,7 +6,7 @@
 val squareGTS = developer {
     about {
         name = "Maxim Bekmetov"
-        role = "Junior_IOS_Developer and Frontend_Developer"
+        role = "Junior_IOS_Developer"
     }
     studyLanguages("Swift", "SOLID", "SwiftUI", "HTML",
     "CSS", "JavaScript", "NodeJS")
