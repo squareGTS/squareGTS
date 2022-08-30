@@ -6,14 +6,14 @@
 val squareGTS = developer {
     about {
         name = "Maxim Bekmetov"
-        role = "Junior_IOS_Developer"
+        role = "IOS_Developer"
     }
-    studyLanguages("Swift", "SOLID", "SwiftUI", "HTML",
-    "CSS", "JavaScript", "NodeJS")
-    designPaterns("MVC")
+    studyLanguages("Swift", "SwiftUI", "HTML","CSS", 
+    "JavaScript", "NodeJS")
+    designPaterns("MVC", "MVVM", "VIPER", "Clean Swift")
     libraries("jQuery", "EJS", "Express", "Mongoose", "React")
-    studyAPI("CocoaPods", "JSON API", "NPM", "Swift Package")
-    dataBases("MongoDB", "Realm", "Core Data", "FireBase")
+    studyAPI("CocoaPods", "SPM", "JSON API", "NPM")
+    dataBases("Realm", "Core Data", "MongoDB", "FireBase")
     links {
         website = "https://squaregts.github.io/cv/"
         linkedIn = "https://www.linkedin.com/in/maxim-bekmetov-b5085b158/"
