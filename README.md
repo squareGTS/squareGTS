@@ -15,7 +15,7 @@ val squareGTS = developer {
     studyAPI("CocoaPods", "SPM", "JSON API", "NPM")
     dataBases("Realm", "Core Data", "FireBase", "UserDefaults",
     "MongoDB")
-    tests(Unit Tests, TDD)
+    tests("Unit Tests", "TDD")
     links {
         website = "https://squaregts.github.io/cv/"
         linkedIn = "https://www.linkedin.com/in/maxim-bekmetov-b5085b158/"
