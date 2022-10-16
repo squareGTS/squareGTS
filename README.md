@@ -27,7 +27,7 @@ val squareGTS = developer {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rmaxim-bekmetov--b5085b158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/squareGTS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="squareGTS" height="30" width="40" /></a>
 </p>
 
@@ -41,7 +41,6 @@ val squareGTS = developer {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squareGTS&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squareGTS&&theme=tokyonight" alt="squareGTS" /></p>
-
 
 ### Spotify Playing 🎧      
 &nbsp; [![Spotify](https://novatorem.squaregts.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
