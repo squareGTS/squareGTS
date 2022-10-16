@@ -19,8 +19,6 @@ val squareGTS = developer {
 }
 ```
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maxim-bekmetov--b5085b158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
@@ -40,7 +38,7 @@ val squareGTS = developer {
   <div align="center">
     <a href="#"><img alt="Maxim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=squareGTS&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Maxim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squareGTS&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=squareGTS.squareGTS)</p>
+   <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=squareGTS.squareGTS" alt="akshatrastogi-1nc0re" /> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
