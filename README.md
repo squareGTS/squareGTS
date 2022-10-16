@@ -51,10 +51,6 @@ val squareGTS = developer {
     <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=squareGTS&custom_title=Maxim's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div> 
 </div>
-   
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=squareGTS&column=8&theme=onedark" />
-</div>
 <br/>
    
    <div align="center">
