@@ -45,4 +45,35 @@ val squareGTS = developer {
 ### Spotify Playing 🎧      
 &nbsp; [![Spotify](https://novatorem.squaregts.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
 
+### GITHUB STATS 
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Maxim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=squareGTS&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Maxim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squareGTS&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=squareGTS&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=squareGTS&custom_title=Maxim%20Rastogi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=squareGTS&column=8&theme=onedark" />
+</div>
+<br/>
+   
+   <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
