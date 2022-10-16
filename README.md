@@ -44,3 +44,5 @@ val squareGTS = developer {
 
 ### Spotify Playing 🎧      
 &nbsp; [![Spotify](https://novatorem.squaregts.vercel.app/api/spotify)](https://open.spotify.com/user/12125645050)
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
