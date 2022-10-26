@@ -11,8 +11,9 @@ val squareGTS = developer {
     studyLanguages("Swift", "SwiftUI", "HTML","CSS", 
     "JavaScript", "NodeJS")
     designPaterns("MVC", "MVVM", "VIPER", "Clean Swift")
-    libraries("jQuery", "EJS", "Express", "Mongoose", "React")
-    studyAPI("CocoaPods", "SPM", "JSON API", "NPM")
+    libraries("RxSwift", "Swinject", "SnapKit", "ARKit", "SceneKit",
+    "SwiftLint", "Fastlane", "Socket.io", "Periphery")
+    studyAPI("CocoaPods", "SPM", "NPM")
     dataBases("Realm", "Core Data", "FireBase", "UserDefaults",
     "MongoDB")
     tests("Unit Tests", "TDD")
