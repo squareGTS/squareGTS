@@ -40,14 +40,6 @@ val squareGTS = developer {
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-
-
-
-  <div>
-    <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=squareGTS&custom_title=Maxim's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
-</div>
-<br/>
    
    <div align="center">
  
