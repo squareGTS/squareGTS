@@ -8,7 +8,7 @@ val squareGTS = developer {
         name = "Maxim Bekmetov"
         role = "IOS_Developer"
     }
-    studyLanguages("Swift", "SwiftUI", "HTML","CSS", 
+    studyLanguages("Swift", "SwiftUI", "Dart", "Flutter", "HTML","CSS", 
     "JavaScript", "NodeJS")
     designPaterns("MVC", "MVVM", "VIPER", "Clean Swift")
     libraries("RxSwift", "Swinject", "SnapKit", "ARKit", "SceneKit",
